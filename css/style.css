@@ -5764,3 +5764,19 @@ ul.footer-nav li a:hover {
   top: 0;
   left: 0;
 }
+
+/*--css added for table */
+.table_centre{
+	align-content: center;
+	background-color:skyblue;
+	text-align: center;
+}
+
+.table_centre th{
+	text-align: center;
+	color:black;
+}
+
+.table-title{
+	color: brown;
+}
